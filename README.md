@@ -2,6 +2,10 @@
 
 Aqui, filosofia encontra jogos e cinema. Um espacço aberto apra compartilhar reflexões, análises, curiosidades e tudo que te faz pensar — seja uma cena marcante, um dilema moral ou aquele jogo que vira a cabeça.
 
+## Para funcionar
+precisamos usar a API disponível [aqui](https://github.com/Kwrokk/ekko-api-java-desenvolvimento).
+
+
 ## Páginas Atuais
 - Cadastro
 - Login
