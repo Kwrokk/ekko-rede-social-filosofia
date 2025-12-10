@@ -6,25 +6,25 @@ Aqui, filosofia encontra jogos e cinema. Um espacço aberto apra compartilhar re
 - Cadastro
 - Login
 - Home
-- Editar Posts
 - Criar Posts
 - Perfil
-
+- Descobrir Posts
 
 ## Funcionalidades Atuais
 - Cadastro
 - Login
 - Criar Posts
-- Editar Posts
 - Reagir à Posts (com like ou coração)
 - Atualizar Perfil
+- Ver todos os Posts
+- Adicionar Tags/Categoria aos Posts
+- Encerrar Sessão
 
 ## Funcionalidades Futuras
 
 ### Posts
 - Pesquisar Posts
 - Deletar Posts
-- Adicionar Categoria aos Posts (Jogos, Filmes, Questões Filosóficas)
 - Compartilhar Posts Para Outras Plataforma (ex: WhatsApp)
 
 
@@ -42,8 +42,3 @@ Aqui, filosofia encontra jogos e cinema. Um espacço aberto apra compartilhar re
 - Editar Comunidadades
 - Deletar Comunidades
 - Participar de Comunidades
-
-
-### Gerais
-- Notificações
-- Encerrar Sessão
