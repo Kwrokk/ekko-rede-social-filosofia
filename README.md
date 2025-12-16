@@ -43,6 +43,6 @@ precisamos usar a API disponível [aqui](https://github.com/Kwrokk/ekko-api-java
 ### Comunidades
 - Criar Comunidades
 - Buscar Comunidades
-- Editar Comunidadades
+- Editar Comunidades
 - Deletar Comunidades
 - Participar de Comunidades
